@@ -15,9 +15,9 @@ Responsive design
 
 Installation
 Prerequisites
-Python 3.x
+Python 3.12.5
 
-Django 3.x
+Django 4.1.5
 
 PostgreSQL (or any other preferred database)
 
@@ -27,7 +27,7 @@ Step-by-Step Instructions
 Clone the Repository
 
 sh
-git clone https://github.com/your-username/icoder.git
+git clone https://github.com/iamapoorvbaghel/iCoder-django.git
 cd icoder
 Create a Virtual Environment
 
